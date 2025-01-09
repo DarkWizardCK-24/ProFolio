@@ -166,7 +166,7 @@ const Projects = () => {
       <div className="container mx-auto">
         <div className="flex flex-col xl:flex-row xl:gap-[30px]">
           <div className="w-full order-2 flex flex-col xl:order-none xl:justify-between xl:w-[50%] xl:h-[460px]">
-            <div className="w-72 flex flex-row gap-12">
+            <div className="w-72 flex flex-row gap-6">
             <div className="text-8xl leading-none font-extrabold text-transparent text-outline">
               {project.num}
             </div>
