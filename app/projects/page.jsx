@@ -25,7 +25,7 @@ const projects = [
       "A web responsive portfolio built using Nextjs framewoork and Javascript with animation and deployed using Vercel.",
     stack: [{ name: "Next js" }, { name: "Javascript" }],
     live: "",
-    github: "https://github.com/DarkWizardCK-24/Portfolio-Next.js",
+    github: "https://github.com/DarkWizardCK-24/Portfolio-Nextjs",
     bitbucket: "https://bitbucket.org/dark_wizard/portfolio-nextjs/src/main/",
   },
   {
