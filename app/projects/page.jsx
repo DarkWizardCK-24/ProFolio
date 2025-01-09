@@ -26,7 +26,7 @@ const projects = [
     stack: [{ name: "Next js" }, { name: "Javascript" }],
     live: "",
     github: "https://github.com/DarkWizardCK-24/Portfolio-Next.js",
-    bitbucket: "",
+    bitbucket: "https://bitbucket.org/dark_wizard/portfolio-nextjs/src/main/",
   },
   {
     num: "02",
