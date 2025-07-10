@@ -8,7 +8,7 @@ import {
   TooltipTrigger,
   TooltipProvider,
 } from "@/components/ui/tooltip";
-import { IoLogoHtml5, IoLogoCss3, IoLogoJavascript } from "react-icons/io";
+import { IoLogoNodejs, IoLogoHtml5, IoLogoCss3, IoLogoJavascript } from "react-icons/io";
 import { LuFileJson } from "react-icons/lu";
 import { MdOutlineWork, MdSchool } from "react-icons/md";
 import {
@@ -72,6 +72,18 @@ const experience = {
   title: "My Experience",
   description: "",
   items: [
+    {
+      company: "Prosoft Informatics Pvt Ltd",
+      position: "Mobile App Developer",
+      duration: "May 2025 - Pres*",
+      skills: "Flutter, Dart, Firebase, APIs, Nodejs",
+    },
+    {
+      company: "LawCrust Global Consultancy",
+      position: "Mobile App Developer Intern",
+      duration: "Jan 2025 - May 2025",
+      skills: "Flutter, Dart, Firebase, APIs, Nodejs",
+    },
     {
       company: "Jio Platforms Limited",
       position: "Frontend Dev Intern",
@@ -178,6 +190,10 @@ const skills = {
       icon: <TbApi />,
       name: "RESTful API",
     },
+    {
+      icon: <IoLogoNodejs />,
+      name: "Node js",
+    }
   ],
 };
 
