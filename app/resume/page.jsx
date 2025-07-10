@@ -74,13 +74,13 @@ const experience = {
   items: [
     {
       company: "Prosoft Informatics Pvt Ltd",
-      position: "Mobile App Developer",
+      position: "Flutter Developer",
       duration: "May 2025 - Pres*",
       skills: "Flutter, Dart, Firebase, APIs, Nodejs",
     },
     {
       company: "LawCrust Global Consultancy",
-      position: "Mobile App Developer Intern",
+      position: "Flutter Developer Intern",
       duration: "Jan 2025 - May 2025",
       skills: "Flutter, Dart, Firebase, APIs, Nodejs",
     },
