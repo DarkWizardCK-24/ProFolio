@@ -140,9 +140,10 @@ const projects = [
     title: "project 10",
     description:
       "A basic Flutter app integrated with Firebase Firestore for managing credentials such as social media or professional accounts. Features include Create, Read, Update, and Delete operations with real-time sync and a responsive UI. Ideal for learning Firebase integration and CRUD functionality in Flutter.",
-    stack: [{ name: "Flutter" }, { name: "Dart" }, { name: "Firebase" } ],
+    stack: [{ name: "Flutter" }, { name: "Dart" }, { name: "Firebase" }],
     live: "",
     github: "https://github.com/DarkWizardCK-24/Password_Manager",
+    bitbucket: "",
   },
   {
     num: "11",
@@ -155,6 +156,7 @@ const projects = [
     stack: [{ name: "Flutter" }, { name: "Dart" }],
     live: "",
     github: "https://github.com/DarkWizardCK-24/Green-Spy",
+    bitbucket: "",
   },
   {
     num: "12",
@@ -167,6 +169,7 @@ const projects = [
     stack: [{ name: "Flutter" }, { name: "Nodejs" }, { name: "Javascript" }, { name: "MongoDB" }],
     live: "",
     github: "https://github.com/DarkWizardCK-24/Green-Spy",
+    bitbucket: "",
   },
   {
     num: "13",
@@ -179,6 +182,7 @@ const projects = [
     stack: [{ name: "Flutter" }, { name: "Dart" }, { name: "Excel" } ],
     live: "",
     github: "https://github.com/DarkWizardCK-24/Data-Registration",
+    bitbucket: "",
   },
   {
     num: "14",
