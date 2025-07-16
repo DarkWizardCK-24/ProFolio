@@ -140,7 +140,7 @@ const projects = [
     title: "project 10",
     description:
       "A basic Flutter app integrated with Firebase Firestore for managing credentials such as social media or professional accounts. Features include Create, Read, Update, and Delete operations with real-time sync and a responsive UI. Ideal for learning Firebase integration and CRUD functionality in Flutter.",
-    stack: [{ name: "Flutter" , "Dart", "Firebase"}],
+    stack: [{ name: "Flutter" }, { name: "Dart" }, { name: "Firebase" } ],
     live: "",
     github: "https://github.com/DarkWizardCK-24/Password_Manager",
   },
@@ -152,7 +152,7 @@ const projects = [
     title: "project 11",
     description:
       "A cross-platform mobile application built with Flutter to help users manage their finances effectively. The app enables tracking of expenses, monitoring real-time currency exchange rate changes, and securely storing card details. With a responsive and intuitive UI, it supports both iOS and Android platforms.",
-    stack: [{ name: "Flutter" , "Dart",}],
+    stack: [{ name: "Flutter" }, { name: "Dart" }],
     live: "",
     github: "https://github.com/DarkWizardCK-24/Green-Spy",
   },
@@ -164,7 +164,7 @@ const projects = [
     title: "project 12",
     description:
       "A cross-platform mobile application built using Flutter and Dart to help users manage their finances efficiently. The app allows users to track expenses seamlessly, with a Node.js-powered API server handling all backend operations.",
-    stack: [{ name: "Flutter" , "Dart", "Nodejs", "Javascript"}],
+    stack: [{ name: "Flutter" }, { name: "Nodejs" }, { name: "Javascript" }, { name: "MongoDB" }],
     live: "",
     github: "https://github.com/DarkWizardCK-24/Green-Spy",
   },
@@ -176,7 +176,7 @@ const projects = [
     title: "project 13",
     description:
       "A mobile app built using flutter-dart for UI and SQLite for database. It can create and import and export data in the form of CSVs, XLSXs and ODSs. Along with it, it also has Tabular and UI cards oriented data representation.",
-    stack: [{ name: "Flutter" , "Dart", "Excel"}],
+    stack: [{ name: "Flutter" }, { name: "Dart" }, { name: "Excel" } ],
     live: "",
     github: "https://github.com/DarkWizardCK-24/Data-Registration",
   },
